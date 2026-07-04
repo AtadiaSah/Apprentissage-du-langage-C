@@ -1,6 +1,3 @@
-# Apprentissage-du-langage-C
-Dépot dédié à la programmation langage C et à la validation d'algorithmes mathématique.
-
 # Apprentissage du langage C
 
 Ce dépôt contient mes travaux pratiques, exercices et implémentations d'algorithmes en langage C, réalisés dans le cadre de mes activités de recherche et d'enseignement en mathématiques.
@@ -16,4 +13,3 @@ Ce dépôt contient mes travaux pratiques, exercices et implémentations d'algor
 
 ## Environnement
 Développé avec GCC sous Windows, optimisé pour la précision et la rigueur algorithmique.
-
